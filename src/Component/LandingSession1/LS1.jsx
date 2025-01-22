@@ -25,8 +25,8 @@ export default function LS1() {
   }
 
   return (
-    <div className="mt-5 mx-3">
-      <h2 className="display-5 fw-bold text-center p-1">Best Seller</h2>
+    <div className="mt-4 mx-3">
+      <h2 className="display-5 fw-bold text-center p-3">POPULAR RIGHT NOW</h2>
       <h4 className="fw-light text-center blockquote-footer">Discover our most popular items. Shop the favorites everyone loves!</h4>
       <hr />
       <div className="container mt-5">

@@ -33,7 +33,7 @@ export default function LS2() {
 
   return (
     <div className="mt-5 mx-3">
-         <h2 className="fw-bold text-center p-1 display-3">New Arrivals</h2>
+         <h2 className="fw-bold text-center p-1 display-3">NEW ARRIVALS</h2>
       <h4 className="fw-light text-center blockquote-footer">
         Explore the latest trends and must-haves. Shop now and stay stylish with our fresh collection!
       </h4>

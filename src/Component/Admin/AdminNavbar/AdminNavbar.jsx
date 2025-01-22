@@ -193,7 +193,7 @@ export default function AdminNavbar() {
             <ListItemIcon>
               <Dashboard sx={activeComponent === 'dashboard' ? { color: "#f68714"} : {}} />
             </ListItemIcon>
-            <ListItemText primary={<span >Dashboard</span>} sx={activeComponent === 'dashboard' ? { color: "#f68714"} : {}} />
+            <ListItemText primary={<span >Dashboard</span>} sx={activeComponent === 'dashboard' ? { color: "black"} : {}} />
           </ListItemButton>
           <br /><br />
           <ListItemButton onClick={handleOrder}>

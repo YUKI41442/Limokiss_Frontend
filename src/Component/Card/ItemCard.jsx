@@ -43,7 +43,7 @@ const ItemCard = ({ product }) => {
       right: "15px",
       backgroundColor: "rgba(0, 0, 0, 0.6)",
       borderRadius: "50%",
-      padding: "10px",
+      padding: "8px",
       transition: "background-color 0.3s ease, transform 0.3s ease",
       cursor: "pointer",
     },
